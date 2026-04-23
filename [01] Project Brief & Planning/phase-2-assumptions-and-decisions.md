@@ -5,7 +5,7 @@
 ### 1. Limited reporting window
 Phase 2 uses only two full weeks of traffic data:
 
-**2026-03-16 to 2026-03-29**
+**14/03/2026 to 27/03/2026**
 
 This decision was made to keep ingestion, validation, and transformation manageable while still providing a realistic analysis window.
 
