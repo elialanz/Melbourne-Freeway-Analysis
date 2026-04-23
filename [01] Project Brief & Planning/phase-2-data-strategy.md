@@ -13,14 +13,14 @@ This phase does not include dashboard development, advanced analysis, forecastin
 ## Reporting Window
 Selected reporting window:
 
-**2026-03-16 to 2026-03-29**
+**14/03/2026 to 27/03/2026**
 
 This period represents two full weeks (Monday to Sunday coverage) and was selected to keep the project manageable while still supporting realistic traffic pattern analysis.
 
 ## Included Source Files
 The following source files are included in Phase 2:
 
-- TIRTL daily traffic count CSV files for 2026-03-16 to 2026-03-29
+- TIRTL daily traffic count CSV files for 14/03/2026 to 27/03/2026
 - TIRTL sites CSV file
 
 ## Excluded for This Phase
