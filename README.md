@@ -77,7 +77,7 @@ This project uses:
 ### Reporting period
 This project uses a controlled reporting window covering:
 
-**16 March 2026 to 29 March 2026**
+**14 March 2026 to 27 March 2026**
 
 This two-week Monday-to-Sunday scope was selected to provide enough data for:
 - weekday vs weekend comparison
