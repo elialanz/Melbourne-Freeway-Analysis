@@ -97,9 +97,15 @@ while keeping the dataset manageable for staging, validation, and reporting.
 - **Power BI** — data modelling, DAX measures, dashboard development, and final reporting  
 - **Excel / Markdown documentation** — data dictionary, checks, notes, and project documentation  
 - **GitHub** — project versioning and portfolio presentation  
-
 ---
 
+## About
+
+Built by **Elia Lanz**, a freelance data analyst specialising in [data analytics for transport and logistics](https://www.elialanz.com/dashboard-service/), retail, transport, booking-based services, and e-commerce.
+
+[See how I work with clients →](https://www.elialanz.com/dashboard-service/) · [Other data services I offer →](https://www.elialanz.com/hire-me/) · [elialanz.com](https://www.elialanz.com)
+
+---
 ## Project Structure
 
 ```text
